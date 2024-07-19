@@ -7,7 +7,7 @@
 
  HTML, CSS, React, JavaScript를 많이 다루었으며, 데이터베이스 관리 시스템으로는 MySQL을 자주 사용하였고, MariaDB도 경험이 있습니다
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gudrms7229)](https://velog.io/@gudrms7229)
+https://velog.io/@gudrms1411/posts
 
 (https://oil-gouda-c5d.notion.site/1e082092021345cf8dc3b84bbbac7771?pvs=4)
 
