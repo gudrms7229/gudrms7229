@@ -1,11 +1,4 @@
-# 👋 정진하는 웹 개발자가 되고싶은 유형근입니다
-
-주로 사용하는 언어는Java로 직업훈련을 통해 JSP, Spring 웹 페이지를 만든 경험이있습니다.
-뿐만아니라 Python, C, C++ 등 다양한 언어 경험이 있습니다
-
-또한 정보통신공학부를 전공하여 Django, Node.js, Ubuntu, OpenCV, Raspberry Pi 등의 기술을 활용하여 안면인식 딥러닝프로젝트를 진행하였습니다.
-
- HTML, CSS, React, JavaScript를 많이 다루었으며, 데이터베이스 관리 시스템으로는 MySQL을 자주 사용하였고, MariaDB도 경험이 있습니다
+# 👋 정진하는 웹 개발자 유형근
 
 https://velog.io/@gudrms1411/posts
 
